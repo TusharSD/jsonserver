@@ -1,10 +1,15 @@
-{"profile": {
-"username":"Anshul",
-"id":999,
-"photoUrl":"https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
-"email":"ansh03@gmail.com",
-"displayName":"Anshul Shrivastav",
-"bio":"Dancer, Coder",
-"followers":["abc","xyz","lmn"],
-"following":["abc","xyz","lmn"]
-}}
+{
+  "profile": {
+    "username":"Anshul",
+    "id":999,
+    "photoUrl":"https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "email":"ansh03@gmail.com",
+    "displayName":"Anshul Shrivastav",
+    "bio":"Dancer, Coder",
+    "follower_count":3,
+    "following_count":5
+  }
+  "videos":{
+    
+  }
+}
