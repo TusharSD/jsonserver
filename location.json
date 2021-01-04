@@ -38,6 +38,32 @@
       ],
       "short_desc": "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley. Built in the 15th century and later abandoned, it’s renowned for its sophisticated dry-stone walls that fuse huge blocks without the use of mortar, intriguing buildings that play on astronomical alignments and panoramic views.",
       "image": "machu_picchu.jpg"
+    },
+    {
+      "name": "Colosseum",
+      "city": " Rome",
+      "State": "",
+      "Country": "Italy",
+      "category": [
+        "historic",
+      "7 wonders of world",
+        "unesco world heritage"
+      ],
+      "short_desc": "The Colosseum, is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum and is the largest ancient amphitheatre ever built, and is still the largest standing amphitheater in the world today, despite its age.",
+      "image": "colosseum.jpg"
+    },
+     {
+      "name": "Grand Canyon",
+      "city": " Rome",
+      "State": "Arizona",
+      "Country": "United States",
+      "category": [
+        "historic",
+      "7 wonders of world",
+        "unesco world heritage"
+      ],
+      "short_desc": "The Colosseum, is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum and is the largest ancient amphitheatre ever built, and is still the largest standing amphitheater in the world today, despite its age.",
+      "image": "colosseum.jpg"
     }
   ]
 }
