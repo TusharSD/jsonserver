@@ -59,11 +59,11 @@
       "Country": "United States",
       "category": [
         "historic",
-      "7 wonders of world",
+      "mountains",
         "unesco world heritage"
       ],
-      "short_desc": "The Colosseum, is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum and is the largest ancient amphitheatre ever built, and is still the largest standing amphitheater in the world today, despite its age.",
-      "image": "colosseum.jpg"
+      "short_desc": "Grand Canyon National Park, in Arizona, is home to much of the immense Grand Canyon, with its layered bands of red rock revealing millions of years of geological history. Viewpoints include Mather Point, Yavapai Observation Station and architect Mary Colter’s Lookout Studio and her Desert View Watchtower. Lipan Point, with wide views of the canyon and Colorado River, is a popular, especially at sunrise and sunset.",
+      "image": "grand_canyon.jpg"
     }
   ]
 }
